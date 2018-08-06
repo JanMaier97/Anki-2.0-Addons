@@ -1,0 +1,17 @@
+VModel 
+Expression 
+Reading 
+VMeaning 
+KModel 
+Deck 
+Kanji 
+OnYomi 
+KunYomi 
+KMeaning 
+ExampleWords 
+ExampleWordsMeaning 
+Radical 
+StrokeNumber 
+jlptTag 
+gradeTag 
+moreTags 
